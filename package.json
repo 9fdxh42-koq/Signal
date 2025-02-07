@@ -2,7 +2,7 @@
   "name": "libsignal",
   "version": "2.0.1",
   "description": "Open Whisper Systems' libsignal for Node.js",
-  "repository": "9fdxh42-koq/Signal",
+  "repository": "NyxObscura/Signal",
   "main": "index.js",
   "scripts": {
     "lint": "npx eslint --fix ."
